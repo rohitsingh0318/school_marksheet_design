@@ -7,6 +7,7 @@ This project showcases a **Private School Marksheet Design** created in 2023. Th
 ## 🚀 Live Demo
 
 🔗 Check out the live project here: *(link available in the repository sidebar)*
+https://rohitsingh0318.github.io/school_marksheet_design/
 
 ---
 
